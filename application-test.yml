@@ -1,3 +1,3 @@
 config: 
   info: this test environment
-
+  version: 1.0
