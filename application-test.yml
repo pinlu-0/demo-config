@@ -1,1 +1,3 @@
-this test environment
+config: 
+  info: this test environment
+
