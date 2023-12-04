@@ -1,3 +1,4 @@
 config: 
   info: this dev environment
+  version: 1.0
 
